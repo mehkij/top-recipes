@@ -22,7 +22,9 @@ ol {
     font-weight: 100;
 }
 
-#curry-image {
+#curry-image,
+#ramen-image,
+#katsudon-image {
     width: 500px;
     height: auto;
 }
