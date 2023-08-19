@@ -3,3 +3,19 @@ div {
     font-size: 40px;
     font-family: "Arial", sans-serif;
 }
+
+.ramen {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.instructions,
+.ingredients {
+    color: #ff0000;
+}
+
+ul,
+ol {
+    text-align: left;
+    font-weight: 100;
+}
